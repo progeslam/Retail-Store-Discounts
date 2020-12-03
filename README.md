@@ -20,16 +20,6 @@ mvn spring-boot:run
 mvn test
 ```
 
-## Code coverage
-
-The code coverage report:
-
-
-| Coverage | 94.00% |
-|---|---|
-
-
-
 ### API Info
 
 * Http Method - **POST**
@@ -64,3 +54,20 @@ Example response.
 ```json
 193.75
 ```
+
+
+
+## Code coverage
+
+The code coverage report:
+
+
+| Coverage | 94.00% |
+|---|---|
+
+
+<img src="images/sonar.1.png" width=850 hight=900 />
+
+### 
+
+<img src="images/sonar.2.png" width=850 hight=900 />
